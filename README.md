@@ -1,2 +1,2 @@
-# simple-temperature-conventer
+# Simple temperature conventer
 Simple temperature converter.
