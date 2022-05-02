@@ -1,5 +1,5 @@
 # Simple temperature conventer
-A simple temperature program converts °C to °F and °F to °C.
+A simple temperature conversion program converts °C to °F and °F to °C.
 
 
 1. Input number.
