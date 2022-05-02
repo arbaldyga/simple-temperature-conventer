@@ -1,7 +1,7 @@
 # Simple temperature conventer
 A simple temperature program converts °C to °F and °F to °C.
 
-Input number and choose one of available options (convert, reset, change).
+
 1. Input number.
 2. Choose one of the available options.
   
